@@ -1,4 +1,4 @@
-# Olá, sou um desenvolvedor Django! 👋
+# Olá, sou um desenvolvedor Backend! 👋
 
 Atualmente sou um **desenvolvedor Django** e **aluno de Análise e Desenvolvimento de Sistemas** na **Unisagrado**. Tenho experiência no desenvolvimento de aplicações web e também trabalho como **freelancer**. Possuo um **CNPJ ativo** para atuar como profissional autônomo.
 
