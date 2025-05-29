@@ -1,6 +1,6 @@
 # 👋 Olá, sou um Desenvolvedor FullStack!
 
-Sou **Luiz Gustavo**, desenvolvedor FullStack com foco em aplicações web utilizando tecnologias modernas no **frontend** e **backend**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Unisagrado** e atuo como **freelancer** com **CNPJ ativo**, oferecendo soluções completas e personalizadas.
+Sou **Luiz Gustavo**, desenvolvedor FullStack com foco em aplicações web utilizando tecnologias modernas no **frontend** e **backend**. Atualmente, curso **Ciência da Computação** na **Unisagrado** e atuo como **freelancer** com **CNPJ ativo**, oferecendo soluções completas e personalizadas.
 
 ---
 
